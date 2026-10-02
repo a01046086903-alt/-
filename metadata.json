@@ -1,0 +1,6 @@
+{
+  "name": "중3 국어 십자말풀이 마스터",
+  "description": "대한민국 중학교 3학년 국어 교육과정을 완벽 반영한 게이미피케이션 십자말풀이 학습 게임. 문학, 문법, 읽기·쓰기, 필수 사자성어 완전 정복!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
